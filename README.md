@@ -1,4 +1,4 @@
-# 🌦️ Weather Trends Visualizer - Theoretical Report
+# 🌦️ Weather Trends Visualizer 
 
 ## 📌 Introduction
 Weather data analysis is an important task in data science and analytics. 
