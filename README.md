@@ -86,12 +86,3 @@ Charts generated:
 
 ---
 
-## 📌 Repository Structure
-```
-weather-trends-visualizer/
-│── data/                # Dataset (CSV)
-│── src/                 # Source code (Python)
-│── output/              # Generated figures (charts)
-```
-
----
